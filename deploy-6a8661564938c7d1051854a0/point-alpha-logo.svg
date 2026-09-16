@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 96" width="520" height="96">
+<g transform="translate(8 16) scale(1.0)"><path d="M32 6 L52 18 L52 42 L32 54 L12 42 L12 18 Z" fill="none" stroke="#F0F2F0" stroke-opacity=".34" stroke-width="2"></path><path d="M32 6 L32 30 M52 18 L32 30 M52 42 L32 30 M32 54 L32 30 M12 42 L32 30 M12 18 L32 30" fill="none" stroke="#F0F2F0" stroke-opacity=".16" stroke-width="1.7"></path><circle cx="32" cy="6" r="2.7" fill="#F0F2F0" fill-opacity=".5"></circle><circle cx="52" cy="18" r="2.7" fill="#F0F2F0" fill-opacity=".5"></circle><circle cx="52" cy="42" r="2.7" fill="#F0F2F0" fill-opacity=".5"></circle><circle cx="32" cy="54" r="2.7" fill="#F0F2F0" fill-opacity=".5"></circle><circle cx="12" cy="42" r="2.7" fill="#F0F2F0" fill-opacity=".5"></circle><circle cx="12" cy="18" r="2.7" fill="#F0F2F0" fill-opacity=".5"></circle><circle cx="32" cy="30" r="5.6" fill="#B8A1FF"></circle></g>
+<text x="94" y="60" font-family="Instrument Sans, Helvetica, Arial, sans-serif" font-weight="700" font-size="48" letter-spacing="-2.2" fill="#F0F2F0">Point</text>
+<text x="224" y="60" font-family="GFS Didot, Georgia, serif" font-size="56" fill="#B8A1FF">α</text>
+<text x="262" y="60" font-family="Instrument Sans, Helvetica, Arial, sans-serif" font-weight="700" font-size="48" letter-spacing="-2.2" fill="#F0F2F0">lpha</text>
+</svg>
